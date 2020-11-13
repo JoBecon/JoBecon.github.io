@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven Smith"
+title                    : "Jonas Becker"
 title_separator          : "-"
-name                     : &name "Steven Smith"
+name                     : &name "Jonas Becker"
 description              : &description "personal description"
 url                      : https://JoBecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Steven Smith"
+  name             : "Jonas Becker"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics"
-  location         : "House of Finance\n Goethe University Frankfurt\n Theodor-W.-Adorno-Platz 3\n 60323 Frankfurt am Main"
+  location         : "Frankfurt am Main, Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
