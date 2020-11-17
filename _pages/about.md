@@ -13,30 +13,15 @@ My research interests are in the fields of Macro-Finance, International Finance 
 
 
 
-
-
-
-
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-
-
-
+This page contains information on my current and past research, teaching and personal background. 
 
 
 
 
 
 News
+--------------------
+
+
+Recent and upcoming presentations
 --------------------
