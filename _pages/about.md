@@ -21,7 +21,8 @@ This page contains information on my current and past research, teaching and per
 
 News
 --------------------
-
+- 
 
 Recent and upcoming presentations
 --------------------
+-
