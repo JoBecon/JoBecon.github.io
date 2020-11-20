@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Economics, University of Mannheim, 2013.
-* Master in Economics and Finance, CEMFI Madrid, 2016.
+* B.Sc. in Economics, University of Mannheim, 2016.
+* Master in Economics and Finance, CEMFI Madrid, 2018.
 * Ph.D in Economics, Goethe University Frankfurt, 2023 (expected)
 
 Work experience
