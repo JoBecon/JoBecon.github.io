@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jonas Becker"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics,\n\n Goethe University"
+  bio              : "PhD Candidate in Economics"
   location         : "Frankfurt am Main, Germany"
-  employer         :
+  employer         : "Goethe University"
   pubmed           : 
   googlescholar    : 
   email            : "j.becker@finance.uni-frankfurt.de"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  phone            : 069275574
 
 
 # Reading Files
