@@ -83,10 +83,10 @@ author:
   name             : "Jonas Becker"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics"
-  location         : "Frankfurt am Main, Germany"
-  employer         : "Goethe University"
+  location         : "Goethe University (GSEFM)"
+  employer         : "Frankfurt am Main, Germany"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://www.researchgate.net/profile/yourprofile"
   email            : "j.becker@finance.uni-frankfurt.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
