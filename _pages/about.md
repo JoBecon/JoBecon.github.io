@@ -15,7 +15,7 @@ I am a PhD Candidate in Economics at Goethe University Frankfurt. My research in
 I am particulary interested in the role of banks (and banking regulation) for the foreign exchange markets.
 
 
-This page contains information on my current and past research, teaching and personal background. 
+This page contains information on my current and past research, teaching and personal background.  
 
 
 
