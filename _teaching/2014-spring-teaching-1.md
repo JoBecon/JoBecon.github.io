@@ -1,9 +1,9 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "UndergraduateS course"
+type: "Return Predictability in International Financial Markets (B.Sc. Seminar)"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University A, Department"
+venue: "Goethe University Frankfurt, SS 2020"
 date: 2014-01-01
 location: "City, Country"
 ---
