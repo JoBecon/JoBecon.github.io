@@ -3,8 +3,8 @@ title: "Quantitative Analysis of Central Banks and Financial Markets"
 collection: teaching
 type: "Seminar (M.Sc.)"
 permalink: /teaching/2020-winter-teaching-1
-venue: "Goethe University, WS 2020"
-date: 01-01-2020
+venue: "Goethe University, WS 2019, WS 2020"
+date: 
 location: "City, Country"
 ---
 
