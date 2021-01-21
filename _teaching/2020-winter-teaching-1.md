@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar (M.Sc.)"
 permalink: /teaching/2020-winter-teaching-1
 venue: "Goethe University, WS 2019, WS 2020"
-date: 
+date: " - - "
 location: "City, Country"
 ---
 
