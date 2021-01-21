@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar (B.Sc.)"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Goethe University Frankfurt, SS 2020"
-date: 
+date: 01-01-2020
 location: "City, Country"
 ---
 
