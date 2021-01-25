@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Economics, University of Mannheim, 2016.
-
-* Exchange Semester (B.Sc.), Stockholm University, 2015.
+* Ph.D in Economics, Goethe University Frankfurt, 2023 (expected)
 
 * Master in Economics and Finance, CEMFI Madrid, 2018.
 
-* Ph.D in Economics, Goethe University Frankfurt, 2023 (expected)
+* Exchange Semester (B.Sc.), Stockholm University, 2015.
+
+* B.Sc. in Economics, University of Mannheim, 2016.
+
 
 Work experience
 ======
